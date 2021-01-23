@@ -1,0 +1,10 @@
+C:\Users\StavrosF\source\repos\BIO2\BIO2.App\bin\Debug\BIO2.App.dll
+C:\Users\StavrosF\source\repos\BIO2\BIO2.App\bin\Debug\BIO2.App.pdb
+C:\Users\StavrosF\source\repos\BIO2\BIO2.App\obj\Debug\BIO2.App.csprojAssemblyReference.cache
+C:\Users\StavrosF\source\repos\BIO2\BIO2.App\obj\Debug\BIO2.App.csproj.CoreCompileInputs.cache
+C:\Users\StavrosF\source\repos\BIO2\BIO2.App\obj\Debug\BIO2.App.dll
+C:\Users\StavrosF\source\repos\BIO2\BIO2.App\obj\Debug\BIO2.App.pdb
+D:\GitHub\bio-2017-q2-StavrosFakiolas\BIO2\BIO2.App\obj\Debug\BIO2.App.csprojAssemblyReference.cache
+D:\GitHub\bio-2017-q2-StavrosFakiolas\BIO2\BIO2.App\obj\Debug\BIO2.App.csproj.CoreCompileInputs.cache
+D:\GitHub\bio-2017-q2-StavrosFakiolas\BIO2\BIO2.App\obj\Debug\BIO2.App.dll
+D:\GitHub\bio-2017-q2-StavrosFakiolas\BIO2\BIO2.App\obj\Debug\BIO2.App.pdb
